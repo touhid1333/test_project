@@ -1,0 +1,6 @@
+flutter_icons:
+  android: true
+  ios: true
+  remove_alpha_ios: true
+  adaptive_icon_background: #ffffff
+  image_path: "assets/images/png/rrad_logo.png"
